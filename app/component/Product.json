@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Awesome Product 1",
+      "description": "This is an awesome product that does amazing things for you.",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/300x200/product1.jpg",
+      "category": "Technology",
+      "tags": ["innovation", "useful", "must-have"]
+    },
+    {
+      "id": 2,
+      "name": "Fantastic Product 2",
+      "description": "Experience the magic of this fantastic product!",
+      "price": 34.95,
+      "image": "https://via.placeholder.com/300x200/product2.jpg",
+      "category": "Home goods",
+      "tags": ["comfort", "stylish", "sustainable"]
+    },
+    {
+      "id": 3,
+      "name": "Super Useful Product 3",
+      "description": "Make your life easier with this super useful product.",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/300x200/product3.jpg",
+      "category": "Office supplies",
+      "tags": ["efficient", "organized", "affordable"]
+    },
+    {
+      "id": 4,
+      "name": "Delightful Product 4",
+      "description": "Indulge yourself with this delightful product.",
+      "price": 79.99,
+      "image": "https://via.placeholder.com/300x200/product4.jpg",
+      "category": "Luxury",
+      "tags": ["high-quality", "elegant", "exclusive"]
+    },
+    {
+      "id": 5,
+      "name": "Essential Product 5",
+      "description": "This essential product is a must-have for everyone.",
+      "price": 24.99,
+      "image": "https://via.placeholder.com/300x200/product5.jpg",
+      "category": "Health & wellness",
+      "tags": ["healthy", "essential", "practical"]
+    }
+  ]
+  
