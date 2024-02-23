@@ -38,7 +38,7 @@ function SecondHeader() {
               />
             </li>
             <li>
-              <a href="/services" className="text-base text-gray-200 hover:text-white">
+              <a href="/Service" className="text-base text-gray-200 hover:text-white">
                 Services
               </a>
             </li>

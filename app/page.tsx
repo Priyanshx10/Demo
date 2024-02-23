@@ -7,8 +7,8 @@ import SecondHeader from "./component/SecondHeader";
 export default function Home() {
   return (
    <div>
-     <Head />
-     <SecondHeader />
+    <Head />
+    <SecondHeader />
     <Card />
     <Product />
     <NewsCardContainer />
